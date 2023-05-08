@@ -19,3 +19,7 @@ maximo = max(frecuencia, key=frecuencia.get)
 
 
 print(f'el número que más se repite es {maximo}')
+
+#contribujciones
+
+print('codigo de prueba')
