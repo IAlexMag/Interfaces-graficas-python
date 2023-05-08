@@ -1,0 +1,18 @@
+W = 600
+H = 800
+W_PLAYER = 40
+H_PLAYER = 40
+SIZE_PLAYER = (W_PLAYER, H_PLAYER)
+# colors
+
+WHITE = (255, 255, 255)
+RANDOM = (125, 80, 120)
+
+# DIRECCIONES
+
+UP = 0
+RIGHT = 1
+DOWN = 2
+LEFT = 3
+
+#apple
